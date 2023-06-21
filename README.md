@@ -1,2 +1,2 @@
 # scientific-calculator
-it will solve scientific calculations as weel as normal calculations also.
+it will solve scientific calculations as well as normal calculations also.
